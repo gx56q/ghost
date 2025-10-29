@@ -122,7 +122,7 @@ internal static class Run2
         return ans;
     }
 
-    public static void Main2()
+    public static void Main()
     {
         var edges = new List<(string, string)>();
         string? line;
